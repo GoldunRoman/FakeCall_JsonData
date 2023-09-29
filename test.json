@@ -1,7 +1,7 @@
 {
   "Categories": {
     "Super Hero": {
-      "PreviewUrl": "https://catmoskatest1.s3.eu-west-3.amazonaws.com/FeceCall/categorias/Frame+335.png",
+      "PreviewUrl": "https://catmoskatest1.s3.eu-west-3.amazonaws.com/FeceCall/categorias/Super hero.png",
       "Items": [ 
         {
           "Name": "Spider-Man",
@@ -42,7 +42,7 @@
       ]
     },
     "Camera Man": {
-      "PreviewUrl": "https://catmoskatest1.s3.eu-west-3.amazonaws.com/FeceCall/categorias/Frame+336.png",
+      "PreviewUrl": "https://catmoskatest1.s3.eu-west-3.amazonaws.com/FeceCall/categorias/Camera man.png",
       "Items": [
         {
           "Name": "Spider-Man",
@@ -83,7 +83,7 @@
       ]
     },
     "Skibidi Toilet": {
-      "PreviewUrl": "https://catmoskatest1.s3.eu-west-3.amazonaws.com/FeceCall/categorias/Frame+337.png",
+      "PreviewUrl": "https://catmoskatest1.s3.eu-west-3.amazonaws.com/FeceCall/categorias/Skibidi Toilet.png",
       "Items": [
         {
           "Name": "Spider-Man",
@@ -124,7 +124,7 @@
       ]
     },
     "Anime": {
-      "PreviewUrl": "https://catmoskatest1.s3.eu-west-3.amazonaws.com/FeceCall/categorias/Frame+338.png",
+      "PreviewUrl": "https://catmoskatest1.s3.eu-west-3.amazonaws.com/FeceCall/categorias/Anime.png",
       "Items": [
         {
           "Name": "Spider-Man",
@@ -165,7 +165,7 @@
       ]
     },
     "Monsters": {
-      "PreviewUrl": "https://catmoskatest1.s3.eu-west-3.amazonaws.com/FeceCall/categorias/Frame+339.png",
+      "PreviewUrl": "https://catmoskatest1.s3.eu-west-3.amazonaws.com/FeceCall/categorias/Monsters.png",
       "Items": [
         {
           "Name": "Spider-Man",
@@ -206,7 +206,7 @@
       ]
     },
     "Wednesday Addams": {
-      "PreviewUrl": "https://catmoskatest1.s3.eu-west-3.amazonaws.com/FeceCall/categorias/Frame+340.png",
+      "PreviewUrl": "https://catmoskatest1.s3.eu-west-3.amazonaws.com/FeceCall/categorias/Wednesday Addams.png",
       "Items": [
         {
           "Name": "Spider-Man",
