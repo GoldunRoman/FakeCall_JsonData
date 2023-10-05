@@ -101,27 +101,27 @@
       "PreviewUrl": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear.png",
       "Items": [
         {
-          "Name": "Bailey.Jpg",
+          "Name": "Bailey",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Bailey.jpg"
         },
         {
-          "Name": "Baloo.Jpg",
+          "Name": "Baloo",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Baloo.jpg"
         },
         {
-          "Name": "Bandit.Jpg",
+          "Name": "Bandit",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Bandit.jpg"
         },
         {
-          "Name": "Banjo.Jpg",
+          "Name": "Banjo",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Banjo.jpg"
         },
         {
-          "Name": "Barkley.Jpg",
+          "Name": "Barkley",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Barkley.jpg"
         },
         {
-          "Name": "Barley.Jpg",
+          "Name": "Barley",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Barley.jpg"
         },
         {
@@ -129,11 +129,11 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Barney.png"
         },
         {
-          "Name": "Baxter.Jpg",
+          "Name": "Baxter",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Baxter.jpg"
         },
         {
-          "Name": "Bazooka.Jpg",
+          "Name": "Bazooka",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Bazooka.jpg"
         },
         {
@@ -141,11 +141,11 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Bearson.png"
         },
         {
-          "Name": "Bela.Jpg",
+          "Name": "Bela",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Bela.jpg"
         },
         {
-          "Name": "Benji.Jpg",
+          "Name": "Benji",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Benji.jpg"
         },
         {
@@ -157,7 +157,7 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Berkeley.png"
         },
         {
-          "Name": "Biggie.Jpg",
+          "Name": "Biggie",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Biggie.jpg"
         },
         {
@@ -165,7 +165,7 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Biggles.png"
         },
         {
-          "Name": "Bingley.Jpg",
+          "Name": "Bingley",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Bingley.jpg"
         },
         {
@@ -173,35 +173,35 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Bingo.png"
         },
         {
-          "Name": "Biscuit.Jpg",
+          "Name": "Biscuit",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Biscuit.jpg"
         },
         {
-          "Name": "Bjorn.Jpg",
+          "Name": "Bjorn",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Bjorn.jpg"
         },
         {
-          "Name": "Blaze.Jpg",
+          "Name": "Blaze",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Blaze.jpg"
         },
         {
-          "Name": "Blizzard.Jpg",
+          "Name": "Blizzard",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Blizzard.jpg"
         },
         {
-          "Name": "Blue.Jpg",
+          "Name": "Blue",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Blue.jpg"
         },
         {
-          "Name": "Bobby.Jpg",
+          "Name": "Bobby",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Bobby.jpg"
         },
         {
-          "Name": "Bonzai.Jpg",
+          "Name": "Bonzai",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Bonzai.jpg"
         },
         {
-          "Name": "Boo Boo.Jpg",
+          "Name": "Boo Boo",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Boo Boo.jpg"
         },
         {
@@ -209,31 +209,31 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Boo.png"
         },
         {
-          "Name": "Boots.Jpg",
+          "Name": "Boots",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Boots.jpg"
         },
         {
-          "Name": "Boulder.Jpg",
+          "Name": "Boulder",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Boulder.jpg"
         },
         {
-          "Name": "Brandy.Jpg",
+          "Name": "Brandy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Brandy.jpg"
         },
         {
-          "Name": "Brewster.Jpg",
+          "Name": "Brewster",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Brewster.jpg"
         },
         {
-          "Name": "Briar.Jpg",
+          "Name": "Briar",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Briar.jpg"
         },
         {
-          "Name": "Brody.Jpg",
+          "Name": "Brody",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Brody.jpg"
         },
         {
-          "Name": "Browny.Jpg",
+          "Name": "Browny",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Browny.jpg"
         },
         {
@@ -245,27 +245,27 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Bruno.png"
         },
         {
-          "Name": "Bubbles.Jpg",
+          "Name": "Bubbles",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Bubbles.jpg"
         },
         {
-          "Name": "Buck.Jpg",
+          "Name": "Buck",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Buck.jpg"
         },
         {
-          "Name": "Buster.Jpg",
+          "Name": "Buster",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Buster.jpg"
         },
         {
-          "Name": "Butch.Jpg",
+          "Name": "Butch",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Butch.jpg"
         },
         {
-          "Name": "Buttercup.Jpg",
+          "Name": "Buttercup",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Buttercup.jpg"
         },
         {
-          "Name": "Buzzy.Jpg",
+          "Name": "Buzzy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bear/Buzzy.jpg"
         }
       ]
@@ -274,123 +274,123 @@
       "PreviewUrl": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird.png",
       "Items": [
         {
-          "Name": "Alula.Jpg",
+          "Name": "Alula",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Alula.jpg"
         },
         {
-          "Name": "Captain Quirky.Jpg",
+          "Name": "Captain Quirky",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Captain Quirky.jpg"
         },
         {
-          "Name": "Chatterbox.Jpg",
+          "Name": "Chatterbox",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Chatterbox.jpg"
         },
         {
-          "Name": "Cheepers.Jpg",
+          "Name": "Cheepers",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Cheepers.jpg"
         },
         {
-          "Name": "Chipper.Jpg",
+          "Name": "Chipper",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Chipper.jpg"
         },
         {
-          "Name": "Chirpy Cheepers.Jpg",
+          "Name": "Chirpy Cheepers",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Chirpy Cheepers.jpg"
         },
         {
-          "Name": "Chirpy.Jpg",
+          "Name": "Chirpy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Chirpy.jpg"
         },
         {
-          "Name": "Chirpz.Jpg",
+          "Name": "Chirpz",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Chirpz.jpg"
         },
         {
-          "Name": "Chirrup.Jpg",
+          "Name": "Chirrup",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Chirrup.jpg"
         },
         {
-          "Name": "Coochie.Jpg",
+          "Name": "Coochie",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Coochie.jpg"
         },
         {
-          "Name": "Daisy.Jpg",
+          "Name": "Daisy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Daisy.jpg"
         },
         {
-          "Name": "Feathered Friend.Jpg",
+          "Name": "Feathered Friend",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Feathered Friend.jpg"
         },
         {
-          "Name": "Fez.Jpg",
+          "Name": "Fez",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Fez.jpg"
         },
         {
-          "Name": "Finch.Jpg",
+          "Name": "Finch",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Finch.jpg"
         },
         {
-          "Name": "Flapper.Jpg",
+          "Name": "Flapper",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Flapper.jpg"
         },
         {
-          "Name": "Fletch.Jpg",
+          "Name": "Fletch",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Fletch.jpg"
         },
         {
-          "Name": "Fritzy.Jpg",
+          "Name": "Fritzy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Fritzy.jpg"
         },
         {
-          "Name": "Hammy.Jpg",
+          "Name": "Hammy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Hammy.jpg"
         },
         {
-          "Name": "Ozzie.Jpg",
+          "Name": "Ozzie",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Ozzie.jpg"
         },
         {
-          "Name": "Parrotte.Jpg",
+          "Name": "Parrotte",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Parrotte.jpg"
         },
         {
-          "Name": "Pip.Jpg",
+          "Name": "Pip",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Pip.jpg"
         },
         {
-          "Name": "Polly.Jpg",
+          "Name": "Polly",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Polly.jpg"
         },
         {
-          "Name": "Skye.Jpg",
+          "Name": "Skye",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Skye.jpg"
         },
         {
-          "Name": "Skylark.Jpg",
+          "Name": "Skylark",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Skylark.jpg"
         },
         {
-          "Name": "Sophie.Jpg",
+          "Name": "Sophie",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Sophie.jpg"
         },
         {
-          "Name": "Trillio.Jpg",
+          "Name": "Trillio",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Trillio.jpg"
         },
         {
-          "Name": "Tweet-Tweet.Jpg",
+          "Name": "Tweet-Tweet",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Tweet-Tweet.jpg"
         },
         {
-          "Name": "Tweetie.Jpg",
+          "Name": "Tweetie",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Tweetie.jpg"
         },
         {
-          "Name": "Tweety.Jpg",
+          "Name": "Tweety",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Tweety.jpg"
         },
         {
-          "Name": "Twit.Jpg",
+          "Name": "Twit",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Bird/Twit.jpg"
         }
       ]
@@ -399,139 +399,139 @@
       "PreviewUrl": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend.png",
       "Items": [
         {
-          "Name": "Alexander.Jpg",
+          "Name": "Alexander",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Alexander.jpg"
         },
         {
-          "Name": "Andrew.Jpg",
+          "Name": "Andrew",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Andrew.jpg"
         },
         {
-          "Name": "Benjamin.Jpg",
+          "Name": "Benjamin",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Benjamin.jpg"
         },
         {
-          "Name": "Brandon.Jpg",
+          "Name": "Brandon",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Brandon.jpg"
         },
         {
-          "Name": "Caleb.Jpg",
+          "Name": "Caleb",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Caleb.jpg"
         },
         {
-          "Name": "Carter.Jpg",
+          "Name": "Carter",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Carter.jpg"
         },
         {
-          "Name": "Christopher.Jpg",
+          "Name": "Christopher",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Christopher.jpg"
         },
         {
-          "Name": "David.Jpg",
+          "Name": "David",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/David.jpg"
         },
         {
-          "Name": "Dylan.Jpg",
+          "Name": "Dylan",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Dylan.jpg"
         },
         {
-          "Name": "Elijah.Jpg",
+          "Name": "Elijah",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Elijah.jpg"
         },
         {
-          "Name": "Ethan.Jpg",
+          "Name": "Ethan",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Ethan.jpg"
         },
         {
-          "Name": "Gavin.Jpg",
+          "Name": "Gavin",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Gavin.jpg"
         },
         {
-          "Name": "Harrison.Jpg",
+          "Name": "Harrison",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Harrison.jpg"
         },
         {
-          "Name": "Isaac.Jpg",
+          "Name": "Isaac",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Isaac.jpg"
         },
         {
-          "Name": "Jack.Jpg",
+          "Name": "Jack",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Jack.jpg"
         },
         {
-          "Name": "Jacob.Jpg",
+          "Name": "Jacob",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Jacob.jpg"
         },
         {
-          "Name": "James.Jpg",
+          "Name": "James",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/James.jpg"
         },
         {
-          "Name": "Jayden.Jpg",
+          "Name": "Jayden",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Jayden.jpg"
         },
         {
-          "Name": "John.Jpg",
+          "Name": "John",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/John.jpg"
         },
         {
-          "Name": "Jonathan.Jpg",
+          "Name": "Jonathan",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Jonathan.jpg"
         },
         {
-          "Name": "Joseph.Jpg",
+          "Name": "Joseph",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Joseph.jpg"
         },
         {
-          "Name": "Joshua.Jpg",
+          "Name": "Joshua",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Joshua.jpg"
         },
         {
-          "Name": "Kaden.Jpg",
+          "Name": "Kaden",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Kaden.jpg"
         },
         {
-          "Name": "Liam.Jpg",
+          "Name": "Liam",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Liam.jpg"
         },
         {
-          "Name": "Lucas.Jpg",
+          "Name": "Lucas",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Lucas.jpg"
         },
         {
-          "Name": "Luke.Jpg",
+          "Name": "Luke",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Luke.jpg"
         },
         {
-          "Name": "Matthew.Jpg",
+          "Name": "Matthew",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Matthew.jpg"
         },
         {
-          "Name": "Michael.Jpg",
+          "Name": "Michael",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Michael.jpg"
         },
         {
-          "Name": "Nathan.Jpg",
+          "Name": "Nathan",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Nathan.jpg"
         },
         {
-          "Name": "Nicholas.Jpg",
+          "Name": "Nicholas",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Nicholas.jpg"
         },
         {
-          "Name": "Noah.Jpg",
+          "Name": "Noah",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Noah.jpg"
         },
         {
-          "Name": "Ryan.Jpg",
+          "Name": "Ryan",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Ryan.jpg"
         },
         {
-          "Name": "Samuel.Jpg",
+          "Name": "Samuel",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Samuel.jpg"
         },
         {
-          "Name": "Tyler.Jpg",
+          "Name": "Tyler",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Boyfriend/Tyler.jpg"
         }
       ]
@@ -540,7 +540,7 @@
       "PreviewUrl": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat.png",
       "Items": [
         {
-          "Name": "Andy.Jpg",
+          "Name": "Andy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Andy.jpg"
         },
         {
@@ -552,15 +552,15 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Bella.png"
         },
         {
-          "Name": "Boo.Jpg",
+          "Name": "Boo",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Boo.jpg"
         },
         {
-          "Name": "Chloe.Jpg",
+          "Name": "Chloe",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Chloe.jpg"
         },
         {
-          "Name": "Cleo.Jpg",
+          "Name": "Cleo",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Cleo.jpg"
         },
         {
@@ -580,15 +580,15 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Jack.png"
         },
         {
-          "Name": "Jasper.Jpg",
+          "Name": "Jasper",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Jasper.jpg"
         },
         {
-          "Name": "Kitty.Jpg",
+          "Name": "Kitty",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Kitty.jpg"
         },
         {
-          "Name": "Leo.Jpg",
+          "Name": "Leo",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Leo.jpg"
         },
         {
@@ -596,43 +596,43 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Lily.png"
         },
         {
-          "Name": "Loki.Jpg",
+          "Name": "Loki",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Loki.jpg"
         },
         {
-          "Name": "Luna.Jpg",
+          "Name": "Luna",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Luna.jpg"
         },
         {
-          "Name": "Max.Jpg",
+          "Name": "Max",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Max.jpg"
         },
         {
-          "Name": "Milo.Jpg",
+          "Name": "Milo",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Milo.jpg"
         },
         {
-          "Name": "Missy.Jpg",
+          "Name": "Missy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Missy.jpg"
         },
         {
-          "Name": "Misty.Jpg",
+          "Name": "Misty",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Misty.jpg"
         },
         {
-          "Name": "Mittens.Jpg",
+          "Name": "Mittens",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Mittens.jpg"
         },
         {
-          "Name": "Mocha.Jpg",
+          "Name": "Mocha",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Mocha.jpg"
         },
         {
-          "Name": "Oreo.Jpg",
+          "Name": "Oreo",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Oreo.jpg"
         },
         {
-          "Name": "Peanut.Jpg",
+          "Name": "Peanut",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Peanut.jpg"
         },
         {
@@ -644,19 +644,19 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Prince.png"
         },
         {
-          "Name": "Sammy.Jpg",
+          "Name": "Sammy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Sammy.jpg"
         },
         {
-          "Name": "Sasha.Jpg",
+          "Name": "Sasha",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Sasha.jpg"
         },
         {
-          "Name": "Scooter.Jpg",
+          "Name": "Scooter",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Scooter.jpg"
         },
         {
-          "Name": "Shadow.Jpg",
+          "Name": "Shadow",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Shadow.jpg"
         },
         {
@@ -664,31 +664,31 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Simba.png"
         },
         {
-          "Name": "Smokey.Jpg",
+          "Name": "Smokey",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Smokey.jpg"
         },
         {
-          "Name": "Socks.Jpg",
+          "Name": "Socks",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Socks.jpg"
         },
         {
-          "Name": "Tiger.Jpg",
+          "Name": "Tiger",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Tiger.jpg"
         },
         {
-          "Name": "Tigger.Jpg",
+          "Name": "Tigger",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Tigger.jpg"
         },
         {
-          "Name": "Tommy.Jpg",
+          "Name": "Tommy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Tommy.jpg"
         },
         {
-          "Name": "Tuxedo.Jpg",
+          "Name": "Tuxedo",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Tuxedo.jpg"
         },
         {
-          "Name": "Zoey.Jpg",
+          "Name": "Zoey",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Cat/Zoey.jpg"
         }
       ]
@@ -697,7 +697,7 @@
       "PreviewUrl": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog.png",
       "Items": [
         {
-          "Name": "Angel.Jpg",
+          "Name": "Angel",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Angel.jpg"
         },
         {
@@ -705,23 +705,23 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Archie.png"
         },
         {
-          "Name": "Bandit.Jpg",
+          "Name": "Bandit",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Bandit.jpg"
         },
         {
-          "Name": "Baxter.Jpg",
+          "Name": "Baxter",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Baxter.jpg"
         },
         {
-          "Name": "Bo.Jpg",
+          "Name": "Bo",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Bo.jpg"
         },
         {
-          "Name": "Buddy.Jpg",
+          "Name": "Buddy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Buddy.jpg"
         },
         {
-          "Name": "Chester.Jpg",
+          "Name": "Chester",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Chester.jpg"
         },
         {
@@ -729,15 +729,15 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Chip.png"
         },
         {
-          "Name": "Fido.Jpg",
+          "Name": "Fido",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Fido.jpg"
         },
         {
-          "Name": "George.Jpg",
+          "Name": "George",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/George.jpg"
         },
         {
-          "Name": "Gus.Jpg",
+          "Name": "Gus",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Gus.jpg"
         },
         {
@@ -745,19 +745,19 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Harley.png"
         },
         {
-          "Name": "Henry.Jpg",
+          "Name": "Henry",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Henry.jpg"
         },
         {
-          "Name": "Hunter.Jpg",
+          "Name": "Hunter",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Hunter.jpg"
         },
         {
-          "Name": "Jack.Jpg",
+          "Name": "Jack",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Jack.jpg"
         },
         {
-          "Name": "Jake.Jpg",
+          "Name": "Jake",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Jake.jpg"
         },
         {
@@ -773,7 +773,7 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Loki.png"
         },
         {
-          "Name": "Lola.Jpg",
+          "Name": "Lola",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Lola.jpg"
         },
         {
@@ -781,11 +781,11 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Lucky.png"
         },
         {
-          "Name": "Max.Jpg",
+          "Name": "Max",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Max.jpg"
         },
         {
-          "Name": "Milo.Jpg",
+          "Name": "Milo",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Milo.jpg"
         },
         {
@@ -793,35 +793,35 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Oliver.png"
         },
         {
-          "Name": "Otis.Jpg",
+          "Name": "Otis",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Otis.jpg"
         },
         {
-          "Name": "Riley.Jpg",
+          "Name": "Riley",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Riley.jpg"
         },
         {
-          "Name": "Rocco.Jpg",
+          "Name": "Rocco",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Rocco.jpg"
         },
         {
-          "Name": "Rocky.Jpg",
+          "Name": "Rocky",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Rocky.jpg"
         },
         {
-          "Name": "Roscoe.Jpg",
+          "Name": "Roscoe",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Roscoe.jpg"
         },
         {
-          "Name": "Rudy.Jpg",
+          "Name": "Rudy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Rudy.jpg"
         },
         {
-          "Name": "Sammy.Jpg",
+          "Name": "Sammy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Sammy.jpg"
         },
         {
-          "Name": "Shadow.Jpg",
+          "Name": "Shadow",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Shadow.jpg"
         },
         {
@@ -833,11 +833,11 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Spot.png"
         },
         {
-          "Name": "Stanley.Jpg",
+          "Name": "Stanley",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Stanley.jpg"
         },
         {
-          "Name": "Teddy.Jpg",
+          "Name": "Teddy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Teddy.jpg"
         },
         {
@@ -845,11 +845,11 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Tucker.png"
         },
         {
-          "Name": "Winston.Jpg",
+          "Name": "Winston",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Winston.jpg"
         },
         {
-          "Name": "Zeus.Jpg",
+          "Name": "Zeus",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Dog/Zeus.jpg"
         }
       ]
@@ -858,15 +858,15 @@
       "PreviewUrl": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost.png",
       "Items": [
         {
-          "Name": "Abyss.Jpg",
+          "Name": "Abyss",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Abyss.jpg"
         },
         {
-          "Name": "Affliction.Jpg",
+          "Name": "Affliction",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Affliction.jpg"
         },
         {
-          "Name": "Anomalous.Jpg",
+          "Name": "Anomalous",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Anomalous.jpg"
         },
         {
@@ -874,19 +874,19 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Banshee.png"
         },
         {
-          "Name": "Drifter.Jpg",
+          "Name": "Drifter",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Drifter.jpg"
         },
         {
-          "Name": "Dweller.Jpg",
+          "Name": "Dweller",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Dweller.jpg"
         },
         {
-          "Name": "Enigma.Jpg",
+          "Name": "Enigma",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Enigma.jpg"
         },
         {
-          "Name": "Entity.Jpg",
+          "Name": "Entity",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Entity.jpg"
         },
         {
@@ -894,31 +894,31 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Faze.png"
         },
         {
-          "Name": "Fetcher.Jpg",
+          "Name": "Fetcher",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Fetcher.jpg"
         },
         {
-          "Name": "Foolery.Jpg",
+          "Name": "Foolery",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Foolery.jpg"
         },
         {
-          "Name": "Genie.Jpg",
+          "Name": "Genie",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Genie.jpg"
         },
         {
-          "Name": "Ghoul.Jpg",
+          "Name": "Ghoul",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Ghoul.jpg"
         },
         {
-          "Name": "Gibberish.Jpg",
+          "Name": "Gibberish",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Gibberish.jpg"
         },
         {
-          "Name": "Gimmick.Jpg",
+          "Name": "Gimmick",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Gimmick.jpg"
         },
         {
-          "Name": "Harbinger.Jpg",
+          "Name": "Harbinger",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Harbinger.jpg"
         },
         {
@@ -926,7 +926,7 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Hoverer.png"
         },
         {
-          "Name": "Incarnation.Jpg",
+          "Name": "Incarnation",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Incarnation.jpg"
         },
         {
@@ -934,15 +934,15 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Intruder.png"
         },
         {
-          "Name": "Manifestation.Jpg",
+          "Name": "Manifestation",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Manifestation.jpg"
         },
         {
-          "Name": "Mystery.Jpg",
+          "Name": "Mystery",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Mystery.jpg"
         },
         {
-          "Name": "Omen.Jpg",
+          "Name": "Omen",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Omen.jpg"
         },
         {
@@ -950,39 +950,39 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Phantom.png"
         },
         {
-          "Name": "Poltergeist.Jpg",
+          "Name": "Poltergeist",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Poltergeist.jpg"
         },
         {
-          "Name": "Possession.Jpg",
+          "Name": "Possession",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Possession.jpg"
         },
         {
-          "Name": "Presence.Jpg",
+          "Name": "Presence",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Presence.jpg"
         },
         {
-          "Name": "Shadowy.Jpg",
+          "Name": "Shadowy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Shadowy.jpg"
         },
         {
-          "Name": "Souvenir.Jpg",
+          "Name": "Souvenir",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Souvenir.jpg"
         },
         {
-          "Name": "Spectacle.Jpg",
+          "Name": "Spectacle",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Spectacle.jpg"
         },
         {
-          "Name": "Specter.Jpg",
+          "Name": "Specter",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Specter.jpg"
         },
         {
-          "Name": "Spectral.Jpg",
+          "Name": "Spectral",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Spectral.jpg"
         },
         {
-          "Name": "Spook.Jpg",
+          "Name": "Spook",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Spook.jpg"
         },
         {
@@ -990,11 +990,11 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Trace.png"
         },
         {
-          "Name": "Vagary.Jpg",
+          "Name": "Vagary",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Vagary.jpg"
         },
         {
-          "Name": "Vanishment.Jpg",
+          "Name": "Vanishment",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Vanishment.jpg"
         },
         {
@@ -1006,7 +1006,7 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Visage.png"
         },
         {
-          "Name": "Whimsey.Jpg",
+          "Name": "Whimsey",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Whimsey.jpg"
         },
         {
@@ -1014,7 +1014,7 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Wraith.png"
         },
         {
-          "Name": "Wraithlike.Jpg",
+          "Name": "Wraithlike",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Ghost/Wraithlike.jpg"
         }
       ]
@@ -1023,147 +1023,147 @@
       "PreviewUrl": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend.png",
       "Items": [
         {
-          "Name": "Abby.Jpg",
+          "Name": "Abby",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Abby.jpg"
         },
         {
-          "Name": "Ainsley.Jpg",
+          "Name": "Ainsley",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Ainsley.jpg"
         },
         {
-          "Name": "Alice.Jpg",
+          "Name": "Alice",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Alice.jpg"
         },
         {
-          "Name": "Amelia.Jpg",
+          "Name": "Amelia",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Amelia.jpg"
         },
         {
-          "Name": "Ava.Jpg",
+          "Name": "Ava",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Ava.jpg"
         },
         {
-          "Name": "Bianca.Jpg",
+          "Name": "Bianca",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Bianca.jpg"
         },
         {
-          "Name": "Bridget.Jpg",
+          "Name": "Bridget",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Bridget.jpg"
         },
         {
-          "Name": "Cathy.Jpg",
+          "Name": "Cathy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Cathy.jpg"
         },
         {
-          "Name": "Chloe.Jpg",
+          "Name": "Chloe",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Chloe.jpg"
         },
         {
-          "Name": "Claire.Jpg",
+          "Name": "Claire",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Claire.jpg"
         },
         {
-          "Name": "Elizabeth.Jpg",
+          "Name": "Elizabeth",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Elizabeth.jpg"
         },
         {
-          "Name": "Ella.Jpg",
+          "Name": "Ella",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Ella.jpg"
         },
         {
-          "Name": "Emily.Jpg",
+          "Name": "Emily",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Emily.jpg"
         },
         {
-          "Name": "Jenny.Jpg",
+          "Name": "Jenny",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Jenny.jpg"
         },
         {
-          "Name": "Jessie.Jpg",
+          "Name": "Jessie",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Jessie.jpg"
         },
         {
-          "Name": "Jill.Jpg",
+          "Name": "Jill",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Jill.jpg"
         },
         {
-          "Name": "Kaitlyn.Jpg",
+          "Name": "Kaitlyn",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Kaitlyn.jpg"
         },
         {
-          "Name": "Kara.Jpg",
+          "Name": "Kara",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Kara.jpg"
         },
         {
-          "Name": "Katherine.Jpg",
+          "Name": "Katherine",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Katherine.jpg"
         },
         {
-          "Name": "Kelsey.Jpg",
+          "Name": "Kelsey",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Kelsey.jpg"
         },
         {
-          "Name": "Kristen.Jpg",
+          "Name": "Kristen",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Kristen.jpg"
         },
         {
-          "Name": "Lauren.Jpg",
+          "Name": "Lauren",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Lauren.jpg"
         },
         {
-          "Name": "Lily.Jpg",
+          "Name": "Lily",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Lily.jpg"
         },
         {
-          "Name": "Lindsey.Jpg",
+          "Name": "Lindsey",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Lindsey.jpg"
         },
         {
-          "Name": "Mandy.Jpg",
+          "Name": "Mandy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Mandy.jpg"
         },
         {
-          "Name": "Maria.Jpg",
+          "Name": "Maria",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Maria.jpg"
         },
         {
-          "Name": "Megan.Jpg",
+          "Name": "Megan",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Megan.jpg"
         },
         {
-          "Name": "Meredith.Jpg",
+          "Name": "Meredith",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Meredith.jpg"
         },
         {
-          "Name": "Monica.Jpg",
+          "Name": "Monica",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Monica.jpg"
         },
         {
-          "Name": "Natalie.Jpg",
+          "Name": "Natalie",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Natalie.jpg"
         },
         {
-          "Name": "Olivia.Jpg",
+          "Name": "Olivia",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Olivia.jpg"
         },
         {
-          "Name": "Paige.Jpg",
+          "Name": "Paige",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Paige.jpg"
         },
         {
-          "Name": "Sasha.Jpg",
+          "Name": "Sasha",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Sasha.jpg"
         },
         {
-          "Name": "Savannah.Jpg",
+          "Name": "Savannah",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Savannah.jpg"
         },
         {
-          "Name": "Serena.Jpg",
+          "Name": "Serena",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Serena.jpg"
         },
         {
-          "Name": "Tessa.Jpg",
+          "Name": "Tessa",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Girlfriend/Tessa.jpg"
         }
       ]
@@ -1180,19 +1180,19 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/BaoBao.png"
         },
         {
-          "Name": "Bean.Jpg",
+          "Name": "Bean",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Bean.jpg"
         },
         {
-          "Name": "Benny.Jpg",
+          "Name": "Benny",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Benny.jpg"
         },
         {
-          "Name": "Butter.Jpg",
+          "Name": "Butter",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Butter.jpg"
         },
         {
-          "Name": "Chopstick.Jpg",
+          "Name": "Chopstick",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Chopstick.jpg"
         },
         {
@@ -1200,7 +1200,7 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Cookie.png"
         },
         {
-          "Name": "Crispy.Jpg",
+          "Name": "Crispy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Crispy.jpg"
         },
         {
@@ -1208,31 +1208,31 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Cuddles.png"
         },
         {
-          "Name": "Dimsum.Jpg",
+          "Name": "Dimsum",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/DimSum.jpg"
         },
         {
-          "Name": "Fonzie.Jpg",
+          "Name": "Fonzie",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Fonzie.jpg"
         },
         {
-          "Name": "Fozzie.Jpg",
+          "Name": "Fozzie",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Fozzie.jpg"
         },
         {
-          "Name": "Fufu.Jpg",
+          "Name": "Fufu",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/FuFu.jpg"
         },
         {
-          "Name": "Fuzzy.Jpg",
+          "Name": "Fuzzy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Fuzzy.jpg"
         },
         {
-          "Name": "Gigi.Jpg",
+          "Name": "Gigi",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Gigi.jpg"
         },
         {
-          "Name": "Honey.Jpg",
+          "Name": "Honey",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Honey.jpg"
         },
         {
@@ -1240,15 +1240,15 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Hoshi.png"
         },
         {
-          "Name": "Ichiro.Jpg",
+          "Name": "Ichiro",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Ichiro.jpg"
         },
         {
-          "Name": "Jasmine.Jpg",
+          "Name": "Jasmine",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Jasmine.jpg"
         },
         {
-          "Name": "Kai.Jpg",
+          "Name": "Kai",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Kai.jpg"
         },
         {
@@ -1256,19 +1256,19 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Kao.png"
         },
         {
-          "Name": "Kiki.Jpg",
+          "Name": "Kiki",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Kiki.jpg"
         },
         {
-          "Name": "Kiwi.Jpg",
+          "Name": "Kiwi",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Kiwi.jpg"
         },
         {
-          "Name": "Kuma.Jpg",
+          "Name": "Kuma",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Kuma.jpg"
         },
         {
-          "Name": "Kungfu.Jpg",
+          "Name": "Kungfu",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/KungFu.jpg"
         },
         {
@@ -1280,11 +1280,11 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Ming.png"
         },
         {
-          "Name": "Miso.Jpg",
+          "Name": "Miso",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Miso.jpg"
         },
         {
-          "Name": "Mochi.Jpg",
+          "Name": "Mochi",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Mochi.jpg"
         },
         {
@@ -1296,31 +1296,31 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Nori.png"
         },
         {
-          "Name": "Patch.Jpg",
+          "Name": "Patch",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Patch.jpg"
         },
         {
-          "Name": "Peng.Jpg",
+          "Name": "Peng",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Peng.jpg"
         },
         {
-          "Name": "Pengy.Jpg",
+          "Name": "Pengy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Pengy.jpg"
         },
         {
-          "Name": "Pickles.Jpg",
+          "Name": "Pickles",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Pickles.jpg"
         },
         {
-          "Name": "Pico.Jpg",
+          "Name": "Pico",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Pico.jpg"
         },
         {
-          "Name": "Po.Jpg",
+          "Name": "Po",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Po.jpg"
         },
         {
-          "Name": "Rue.Jpg",
+          "Name": "Rue",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Rue.jpg"
         },
         {
@@ -1332,23 +1332,23 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Thumper.png"
         },
         {
-          "Name": "Toro.Jpg",
+          "Name": "Toro",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Toro.jpg"
         },
         {
-          "Name": "Wonton.Jpg",
+          "Name": "Wonton",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Wonton.jpg"
         },
         {
-          "Name": "Yoyo.Jpg",
+          "Name": "Yoyo",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Yoyo.jpg"
         },
         {
-          "Name": "Yumyum.Jpg",
+          "Name": "Yumyum",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/YumYum.jpg"
         },
         {
-          "Name": "Ziggy.Jpg",
+          "Name": "Ziggy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Panda/Ziggy.jpg"
         }
       ]
@@ -1357,55 +1357,55 @@
       "PreviewUrl": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police.png",
       "Items": [
         {
-          "Name": "Blue Knights.Jpg",
+          "Name": "Blue Knights",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Blue Knights.jpg"
         },
         {
-          "Name": "Blue Patrol.Jpg",
+          "Name": "Blue Patrol",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Blue Patrol.jpg"
         },
         {
-          "Name": "Blue Watch.Jpg",
+          "Name": "Blue Watch",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Blue Watch.jpg"
         },
         {
-          "Name": "Cops Of People.Jpg",
+          "Name": "Cops Of People",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Cops of people.jpg"
         },
         {
-          "Name": "Cops On The Street.Jpg",
+          "Name": "Cops On The Street",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Cops on the Street.jpg"
         },
         {
-          "Name": "Custodians Of The Law.Jpg",
+          "Name": "Custodians Of The Law",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Custodians of the Law.jpg"
         },
         {
-          "Name": "Defenders Of Justice.Jpg",
+          "Name": "Defenders Of Justice",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Defenders of justice.jpg"
         },
         {
-          "Name": "Guardians Of Freedom.Jpg",
+          "Name": "Guardians Of Freedom",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Guardians of Freedom.jpg"
         },
         {
-          "Name": "Guardians Of The Law.Jpg",
+          "Name": "Guardians Of The Law",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Guardians of the Law.jpg"
         },
         {
-          "Name": "Law Breakers.Jpg",
+          "Name": "Law Breakers",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Law Breakers.jpg"
         },
         {
-          "Name": "Law Defenders.Jpg",
+          "Name": "Law Defenders",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Law Defenders.jpg"
         },
         {
-          "Name": "Law Enforcers.Jpg",
+          "Name": "Law Enforcers",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Law Enforcers.jpg"
         },
         {
-          "Name": "Lawmen.Jpg",
+          "Name": "Lawmen",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Lawmen.jpg"
         },
         {
@@ -1413,15 +1413,15 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Laws Keepers.png"
         },
         {
-          "Name": "Peace Keepers.Jpg",
+          "Name": "Peace Keepers",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Peace Keepers.jpg"
         },
         {
-          "Name": "Peace Regulators.Jpg",
+          "Name": "Peace Regulators",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Peace Regulators.jpg"
         },
         {
-          "Name": "Police Powers.Jpg",
+          "Name": "Police Powers",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Police Powers.jpg"
         },
         {
@@ -1429,51 +1429,51 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Protectors of Freedom.png"
         },
         {
-          "Name": "Safety Force.Jpg",
+          "Name": "Safety Force",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Safety Force.jpg"
         },
         {
-          "Name": "Security Monitors.Jpg",
+          "Name": "Security Monitors",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Security Monitors.jpg"
         },
         {
-          "Name": "Sentinels Of The Peace.Jpg",
+          "Name": "Sentinels Of The Peace",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Sentinels of the Peace.jpg"
         },
         {
-          "Name": "Servants Of The People.Jpg",
+          "Name": "Servants Of The People",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Servants of the People.jpg"
         },
         {
-          "Name": "Shield And Protectors.Jpg",
+          "Name": "Shield And Protectors",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/Shield and Protectors.jpg"
         },
         {
-          "Name": "The Constables.Jpg",
+          "Name": "The Constables",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/The Constables.jpg"
         },
         {
-          "Name": "The Enforcers.Jpg",
+          "Name": "The Enforcers",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/The Enforcers.jpg"
         },
         {
-          "Name": "The Keepers.Jpg",
+          "Name": "The Keepers",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/The Keepers.jpg"
         },
         {
-          "Name": "The Law Keepers.Jpg",
+          "Name": "The Law Keepers",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/The Law Keepers.jpg"
         },
         {
-          "Name": "The Lawman.Jpg",
+          "Name": "The Lawman",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/The LawMan.jpg"
         },
         {
-          "Name": "The Peacemakers.Jpg",
+          "Name": "The Peacemakers",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/The Peacemakers.jpg"
         },
         {
-          "Name": "The Regulators.Jpg",
+          "Name": "The Regulators",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Police/The Regulators.jpg"
         }
       ]
@@ -1482,139 +1482,139 @@
       "PreviewUrl": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess.png",
       "Items": [
         {
-          "Name": "Alice.Jpg",
+          "Name": "Alice",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Alice.jpg"
         },
         {
-          "Name": "Anastasia.Jpg",
+          "Name": "Anastasia",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Anastasia.jpg"
         },
         {
-          "Name": "Anna.Jpg",
+          "Name": "Anna",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Anna.jpg"
         },
         {
-          "Name": "Anya.Jpg",
+          "Name": "Anya",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Anya.jpg"
         },
         {
-          "Name": "Ariel.Jpg",
+          "Name": "Ariel",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Ariel.jpg"
         },
         {
-          "Name": "Astrid.Jpg",
+          "Name": "Astrid",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Astrid.jpg"
         },
         {
-          "Name": "Aurora.Jpg",
+          "Name": "Aurora",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Aurora.jpg"
         },
         {
-          "Name": "Belle.Jpg",
+          "Name": "Belle",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Belle.jpg"
         },
         {
-          "Name": "Charlotte.Jpg",
+          "Name": "Charlotte",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Charlotte.jpg"
         },
         {
-          "Name": "Cinderella.Jpg",
+          "Name": "Cinderella",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Cinderella.jpg"
         },
         {
-          "Name": "Eilonwy.Jpg",
+          "Name": "Eilonwy",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Eilonwy.jpg"
         },
         {
-          "Name": "Ella.Jpg",
+          "Name": "Ella",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Ella.jpg"
         },
         {
-          "Name": "Elsa.Jpg",
+          "Name": "Elsa",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Elsa.jpg"
         },
         {
-          "Name": "Esmeralda.Jpg",
+          "Name": "Esmeralda",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Esmeralda.jpg"
         },
         {
-          "Name": "Ginarra.Jpg",
+          "Name": "Ginarra",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Ginarra.jpg"
         },
         {
-          "Name": "Ginella.Jpg",
+          "Name": "Ginella",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Ginella.jpg"
         },
         {
-          "Name": "Giselle.Jpg",
+          "Name": "Giselle",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Giselle.jpg"
         },
         {
-          "Name": "Hildegard.Jpg",
+          "Name": "Hildegard",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Hildegard.jpg"
         },
         {
-          "Name": "Jalia.Jpg",
+          "Name": "Jalia",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Jalia.jpg"
         },
         {
-          "Name": "Jane.Jpg",
+          "Name": "Jane",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Jane.jpg"
         },
         {
-          "Name": "Jasmine.Jpg",
+          "Name": "Jasmine",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Jasmine.jpg"
         },
         {
-          "Name": "Kida.Jpg",
+          "Name": "Kida",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Kida.jpg"
         },
         {
-          "Name": "Megara.Jpg",
+          "Name": "Megara",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Megara.jpg"
         },
         {
-          "Name": "Merida.Jpg",
+          "Name": "Merida",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Merida.jpg"
         },
         {
-          "Name": "Moana.Jpg",
+          "Name": "Moana",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Moana.jpg"
         },
         {
-          "Name": "Mulan.Jpg",
+          "Name": "Mulan",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Mulan.jpg"
         },
         {
-          "Name": "Pocahontas.Jpg",
+          "Name": "Pocahontas",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Pocahontas.jpg"
         },
         {
-          "Name": "Rapunzel.Jpg",
+          "Name": "Rapunzel",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Rapunzel.jpg"
         },
         {
-          "Name": "Robin.Jpg",
+          "Name": "Robin",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Robin.jpg"
         },
         {
-          "Name": "Snow White.Jpg",
+          "Name": "Snow White",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Snow White.jpg"
         },
         {
-          "Name": "Suzanna.Jpg",
+          "Name": "Suzanna",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Suzanna.jpg"
         },
         {
-          "Name": "Thumbelina.Jpg",
+          "Name": "Thumbelina",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Thumbelina.jpg"
         },
         {
-          "Name": "Tiana.Jpg",
+          "Name": "Tiana",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Tiana.jpg"
         },
         {
-          "Name": "Tiffany.Jpg",
+          "Name": "Tiffany",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Princess/Tiffany.jpg"
         }
       ]
@@ -1623,7 +1623,7 @@
       "PreviewUrl": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa.png",
       "Items": [
         {
-          "Name": "Bringer Of Gifts.Jpg",
+          "Name": "Bringer Of Gifts",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Bringer of Gifts.jpg"
         },
         {
@@ -1635,19 +1635,19 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Cinderlad.png"
         },
         {
-          "Name": "Donnavventura.Jpg",
+          "Name": "Donnavventura",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Donnavventura.jpg"
         },
         {
-          "Name": "Father Christmas.Jpg",
+          "Name": "Father Christmas",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Father Christmas.jpg"
         },
         {
-          "Name": "Father Tim.Jpg",
+          "Name": "Father Tim",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Father Tim.jpg"
         },
         {
-          "Name": "Frizzle-Beard.Jpg",
+          "Name": "Frizzle-Beard",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Frizzle-Beard.jpg"
         },
         {
@@ -1655,7 +1655,7 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Frosty the Snowman.png"
         },
         {
-          "Name": "Gift Bringer.Jpg",
+          "Name": "Gift Bringer",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Gift Bringer.jpg"
         },
         {
@@ -1663,31 +1663,31 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Gift Giver.png"
         },
         {
-          "Name": "Good Father Garangla.Jpg",
+          "Name": "Good Father Garangla",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Good Father Garangla.jpg"
         },
         {
-          "Name": "Good King Wenceslas.Jpg",
+          "Name": "Good King Wenceslas",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Good King Wenceslas.jpg"
         },
         {
-          "Name": "Grandfather Winter.Jpg",
+          "Name": "Grandfather Winter",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Grandfather Winter.jpg"
         },
         {
-          "Name": "Grimpapa.Jpg",
+          "Name": "Grimpapa",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Grimpapa.jpg"
         },
         {
-          "Name": "Hodag.Jpg",
+          "Name": "Hodag",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Hodag.jpg"
         },
         {
-          "Name": "Jolly Old Saint Nicholas.Jpg",
+          "Name": "Jolly Old Saint Nicholas",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Jolly Old Saint Nicholas.jpg"
         },
         {
-          "Name": "Klaubauf.Jpg",
+          "Name": "Klaubauf",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Klaubauf.jpg"
         },
         {
@@ -1699,11 +1699,11 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Old Hadden.png"
         },
         {
-          "Name": "Old Man Greencoat.Jpg",
+          "Name": "Old Man Greencoat",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Old Man Greencoat.jpg"
         },
         {
-          "Name": "Old Man Winter.Jpg",
+          "Name": "Old Man Winter",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Old Man Winter.jpg"
         },
         {
@@ -1711,7 +1711,7 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Old Nick.png"
         },
         {
-          "Name": "Old Oak Father.Jpg",
+          "Name": "Old Oak Father",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Old Oak Father.jpg"
         },
         {
@@ -1719,15 +1719,15 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Old Saint Nick.png"
         },
         {
-          "Name": "Rufkranz.Jpg",
+          "Name": "Rufkranz",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Rufkranz.jpg"
         },
         {
-          "Name": "Saint Lucia.Jpg",
+          "Name": "Saint Lucia",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Saint Lucia.jpg"
         },
         {
-          "Name": "Saint Nicholas.Jpg",
+          "Name": "Saint Nicholas",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Saint Nicholas.jpg"
         },
         {
@@ -1735,19 +1735,19 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Samichlaus.png"
         },
         {
-          "Name": "Santa Claus.Jpg",
+          "Name": "Santa Claus",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Santa Claus.jpg"
         },
         {
-          "Name": "Santa.Jpg",
+          "Name": "Santa",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Santa.jpg"
         },
         {
-          "Name": "Sinterklaas.Jpg",
+          "Name": "Sinterklaas",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Sinterklaas.jpg"
         },
         {
-          "Name": "Snacka Pappa.Jpg",
+          "Name": "Snacka Pappa",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Snacka Pappa.jpg"
         },
         {
@@ -1755,27 +1755,27 @@
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/St. Nick.png"
         },
         {
-          "Name": "Thaubanzee.Jpg",
+          "Name": "Thaubanzee",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Thaubanzee.jpg"
         },
         {
-          "Name": "The March Hound.Jpg",
+          "Name": "The March Hound",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/The March Hound.jpg"
         },
         {
-          "Name": "The North Presenteer.Jpg",
+          "Name": "The North Presenteer",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/The North Presenteer.jpg"
         },
         {
-          "Name": "Weihnachtsmann.Jpg",
+          "Name": "Weihnachtsmann",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Weihnachtsmann.jpg"
         },
         {
-          "Name": "White-Bearded One.Jpg",
+          "Name": "White-Bearded One",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/White-Bearded One.jpg"
         },
         {
-          "Name": "Wizened Old Elf.Jpg",
+          "Name": "Wizened Old Elf",
           "ImageURL": "https://fakecall-kt.s3.eu-west-3.amazonaws.com/Test3/content/Santa/Wizened Old Elf.jpg"
         }
       ]
