@@ -4604,5 +4604,12 @@
   "Audio": {
     "Main": "",
     "Other": []
+  },
+  "Url": {
+    "Test": {
+      "UrlPrivacy": "",
+      "UrlMoreApps": "",
+      "RateUs": ""
+    }
   }
 }
